@@ -3,7 +3,7 @@ title: "Code Sample 1: Cleaning & Tidying Data"
 author: "David I. Crabtree"
 date: "2/19/2023"
 output: 
-  github_document:
+  html_document:
     toc: true
 ---
 
